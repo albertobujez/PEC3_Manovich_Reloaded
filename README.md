@@ -1,3 +1,4 @@
+prueba de cursiva *prueba de cursiva* **prueba de negrita**
 # PEC3_Manovich_Reloaded
 Pegado de plantilla de MGEA
 PEC3: Visionando el futuro con las gafas de Manovich
