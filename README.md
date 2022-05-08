@@ -1,2 +1,2 @@
 # PEC3_Manovich_Reloaded
-prueba
+Pegado de plantilla de MGEA
