@@ -2,7 +2,7 @@
 
   
 
-Se han elegido como temas centrales para éste trabajo: por un lado las bibliotecas virtuales desde el punto de vista genérico, escogiendo a *“Europeana”* para la exposición más precisa de los contenidos, y *“Google Arts and Culture”* por el otro, tras el visto bueno de la primera, y la propuesta de la segunda por parte del profesor colaborador Francisco Miguel Gea Mejías de la Asignatura Cultura Digital.
+Se han elegido como temas centrales para éste trabajo: por un lado las bibliotecas virtuales desde el punto de vista genérico, escogiendo a *“Europeana”* para la exposición más precisa de los contenidos, y *“Google Arts and Culture”* por el otro, tras el visto bueno de la primera, y la propuesta de la segunda por parte del profesor colaborador Francisco Miguel Gea Mejías de la Asignatura Cultura Digital del Grado en técnicas de interacción digital y multimedia de la Universidad Abierta de Catañuña (UOC).
 
   
   
@@ -12,7 +12,7 @@ Se han elegido como temas centrales para éste trabajo: por un lado las bibliote
 
   
 
-*“Europeana”* es un proyecto dependiente de la Biblioteca Nacional de España que desarrolla sus servicios a través de un portal en Internet que da acceso a millones de contenidos y recursos digitales de archivos, bibliotecas y museos europeos, mostrándose en una gran diversidad de formatos multimedia.
+*“Europeana”* es un proyecto dependiente de la Biblioteca Nacional de España que desarrolla sus servicios a través de un portal en Internet que da acceso a millones de contenidos y recursos digitales procedentes de archivos, bibliotecas y museos europeos, mostrándose en una gran diversidad de formatos multimedia.
 
   
 
