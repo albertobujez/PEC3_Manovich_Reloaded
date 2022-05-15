@@ -111,4 +111,12 @@ Llegado a éste punto, como ejercício de reflexión, podría ser interesante es
 
 ***Biblioteca híbrida.*** Contiene todo tipo de contenidos y servicios, tanto los analógicos tradicionales, como los digitales más modernos como recursos del Internet de las cosas, libros conectados, estanterías que supervisan su orden mediante webcams, sistemas de identificación por radiofrecuencia (RFID). Es la que literalmente contiene una mezcla de todo, y podría incorporarse dentro del concepto de **“hibridación”**, conservando características de ambos mundos, virtual y real, incluso incluyendo técnicas de realidad aumentada, realidad mixta y virtualidad aumentada.
 
+ENLACES WEB:
+
+- Europeana: https://www.europeana.eu/es
+- Google Arts and Culture: https://artsandculture.google.com/
+- Conferencia Ted por Bil Ptacek: https://www.youtube.com/watch?v=ES0zGUvZj5s
+- Discurso de Steve Jobs en la Universidad de Stanford: https://www.youtube.com/watch?v=UF8uR6Z6KLc
+- 
+
 Autor: Alberto Manuel Bujez Fernández.
