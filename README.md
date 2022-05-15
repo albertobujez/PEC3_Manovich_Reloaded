@@ -110,3 +110,5 @@ Llegado a éste punto, como ejercício de reflexión, podría ser interesante es
 ***Biblioteca virtual.*** Emula el ambiente de una biblioteca real por medio de un interfaz virtual y usando todo tipo de contenidos multimedia. Ésta podría tenerse en cuenta como una **“remediación”** de la biblioteca real, al igual que sus OPACs respecto a los catálogos tradicionales. Básicamente se trata del paso de la realidad a la virtualidad.
 
 ***Biblioteca híbrida.*** Contiene todo tipo de contenidos y servicios, tanto los analógicos tradicionales, como los digitales más modernos como recursos del Internet de las cosas, libros conectados, estanterías que supervisan su orden mediante webcams, sistemas de identificación por radiofrecuencia (RFID). Es la que literalmente contiene una mezcla de todo, y podría incorporarse dentro del concepto de **“hibridación”**, conservando características de ambos mundos, virtual y real, incluso incluyendo técnicas de realidad aumentada, realidad mixta y virtualidad aumentada.
+
+Autor: Alberto Manuel Bujez Fernández.
