@@ -68,11 +68,11 @@ Y en *Google Culture and Arts* a través de su juego de *Cámara Fotográfica*, 
 
 Para el caso concreto de los temas escogidos, ésta característica puede encontrarse, por ejemplo en:
 
-Para el caso de *Europeana* en su apartado **Acerca de Nosotros** mediante la posibilidad de ser compartido en redes sociales.
+Para el caso de *Europeana*, en su apartado **Acerca de Nosotros** mediante la posibilidad de ser compartido en redes sociales.
 
 ![](https://lh3.googleusercontent.com/LhMYDWvKabqiIB7jBH72eu04xLTfOf0Oh1VixgDX5COVnVdEXMI9d0YkcQqfCofTFR3AuYoJaIWryulHz4OazzfLESu8zUZXfPT7Dk1Vbhg71B6c9n5VEjf6E5rrkaxUP2G5dsMzptIzPkYxvQ)
 
-Y para el caso de *Google Arts and Culture* en la posibilidad de dar un Like o de ser compartido también en redes sociales.
+Y para el caso de *Google Arts and Culture*, en la posibilidad de dar un Like o de ser compartido también en redes sociales.
 
 ![](https://lh3.googleusercontent.com/gu08pRklkn_ZYJsOlTkoIr0paXDEEjRmNRqAaimjGIsK1obTOzuH-zZ0hMJDSi_9j6S_mfnlV9eOrAxIW1cYusedetz1pCduh2oEl9RfWKVnfBcQZnNAr04nZ-pqXwYI782PDuvmrW90xmxr0g)
 
