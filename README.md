@@ -101,7 +101,7 @@ En cierto modo, podría encajarse en éste sentido lo que Steve Jobs dictó en s
   
   
 
-**RELACIÓN ENTRE CONCEPTOS DE LEV MANOVICH Y TIPOS DE BIBLIOTECAS**
+**RELACIÓN ENTRE LOS CONCEPTOS DE LEV MANOVICH Y TIPOS DE BIBLIOTECAS**
 
 Llegado a éste punto, como ejercício de reflexión, podría ser interesante establecer una relación entre los tres conceptos básicos propuestos por Lev Manovich, **evolución, remediación, e hibridación** y los tres tipos de **bibliotecas digitales: electrónica, virtual e híbrida**, de la siguiente forma:
 
